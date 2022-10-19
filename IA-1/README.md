@@ -1,4 +1,7 @@
-# IA 1
+# Interim Assessment 1
+An assessment on SQL.
+
+Solving simple database problems.
 
 ## Descriptions
 ### `xyz_company.sql`
@@ -23,7 +26,7 @@ An SQL query that computes the total number of male and female workers in XYZ co
 An SQL query that obtains a list of departments and total amount each department spends on salary payments.
 
 ### `6-plus_five_percent.sql`
-A query to generate a list of the bottom 3 lowest paid workers and add 5% of their salaries as bonus to their new salaries.
+A query which generates a list of the bottom 3 lowest paid workers and add 5% of their salaries as bonus to their new salaries.
 
 ### `7-each_dept.sql`
 An SQL query that returns a list of all departments indicating the number of people in each department.
