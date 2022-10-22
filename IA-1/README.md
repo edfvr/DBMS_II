@@ -6,7 +6,7 @@ Solving simple database problems.
 ## Descriptions
 ### `xyz_company.sql`
 `xyz_company.sql`is an executable SQL script containing workers information at XYZ company ltd. Execute the script on my SQL workbench.
-[code](IA-1/xyz_company.sql) 
+[code](xyz_company.sql) 
 
 ### `0-displacement.sql`
 An SQL command that replaces Kwame Asare's name and ID with your own details, use your student ID for as the `Worker_ID`.
